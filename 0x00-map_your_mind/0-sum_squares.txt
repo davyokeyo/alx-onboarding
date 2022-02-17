@@ -1,0 +1,9 @@
+#Start an empty array
+#Enter the number of enteries: N
+#For loop i in range N
+	#Enter the numbers to be summed
+	#find the squares of the numbers to be summed
+	#append the squares in the empty list
+#print the list print(array)
+#sum the array sumsqrt= sum (array)
+#print sumsqrt
