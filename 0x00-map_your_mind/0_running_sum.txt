@@ -1,0 +1,12 @@
+#intialize sum_numb = 0
+#Create a empty list X
+# Enter the number of entries in the list N/ read no of items
+#for loop i in range N
+	#Enter the value of the first index of the list
+	#append the number to the list
+	#if loop i greater than zero
+		#add sum_numb and the first entry
+		#append the number in the list 
+	#else i less than zero
+		#print ("i can not be zero)
+#print the list X
