@@ -1,0 +1,12 @@
+#enter three integers int(input) (x,y,z)
+#print the three numbers
+#sorting we use if loop
+#if (x <=y and y <=z):
+    #print (x,y,z)
+#else:
+   # if (x<=z and z<=y):
+       # print(x,z,y)
+    #if (y<=x and x<=z):
+        #print(y,x,z)
+   # if (z<=x and x<=y):
+       # print(z,x,y)
